@@ -2,11 +2,9 @@
 
 ## Backend Software Engineer | Laravel • Node.js • REST APIs
 
-I'm a Backend Software Engineer with over 6 years of experience building scalable web applications and REST APIs using **Laravel** and **Node.js**.
+I'm a Backend Software Engineer with 6+ years of experience building scalable web applications and REST APIs using **Laravel** and **Node.js**.
 
-I enjoy designing clean backend architectures, solving complex business problems, and developing reliable software that is easy to maintain and scale.
-
-My professional experience includes developing business applications, authentication systems, API integrations, reporting modules, and backend services for enterprise web applications.
+I specialize in developing robust backend systems, designing clean APIs, integrating third-party services, and building reliable business applications. I'm passionate about writing clean, maintainable code and continuously improving my software engineering skills.
 
 ---
 
@@ -46,7 +44,7 @@ My professional experience includes developing business applications, authentica
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
-### Tools
+### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
@@ -57,7 +55,7 @@ My professional experience includes developing business applications, authentica
 
 ## 🌱 Currently Learning
 
-* Docker & Containerized Development
+* Docker & Containerization
 * Redis
 * System Design
 * Automated Testing
@@ -65,29 +63,18 @@ My professional experience includes developing business applications, authentica
 
 ---
 
-## 📂 Public Projects
+## 📂 Featured Public Projects
 
-I'm currently building and improving public projects that demonstrate clean architecture, backend best practices, and production-ready development.
-
-Upcoming repositories include:
-
-* Laravel API Starter Kit
-* Inventory Management System
-* Node.js Authentication Service
-* Backend Utilities & Reusable Packages
+I'm actively building and improving public repositories that demonstrate clean architecture, backend best practices, and production-ready development. My goal is to create projects that showcase real-world engineering practices rather than simple CRUD applications.
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
-📧 **Email:** [basitalvi62@gmail.com](mailto:basitalvi62@gmail.com)
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/basit-alvi-028706162
-
-🐙 **GitHub:**
-https://github.com/basitalvi62
+* 📧 **Email:** [basitalvi62@gmail.com](mailto:basitalvi62@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/basit-alvi-028706162
+* 🐙 **GitHub:** https://github.com/basitalvi62
 
 ---
 
-⭐ Thanks for visiting my profile! I'm always interested in connecting with developers and exploring backend engineering opportunities.
+> *"Code is not just about making things work—it's about building solutions that are scalable, maintainable, and reliable."*
