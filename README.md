@@ -72,7 +72,7 @@ I'm actively building and improving public repositories that demonstrate clean a
 ## 📫 Connect with Me
 
 * 📧 **Email:** [basitalvi62@gmail.com](mailto:basitalvi62@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/basit-alvi-028706162
+* 💼 **LinkedIn:** https://www.linkedin.com/in/abdul-basit-shoukat-028706162
 * 🐙 **GitHub:** https://github.com/basitalvi62
 
 ---
